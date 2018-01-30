@@ -18,6 +18,6 @@ void console_heartbeat();
 void printf_putchar( char c );
 void printf_putstring( char *s );
 
-#define console_printf printf
+#define CONSOLE_H
 
 #endif
